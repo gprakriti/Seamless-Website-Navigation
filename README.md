@@ -4,5 +4,5 @@ Hello, I am Prakriti Gupta, a 10th-grade student. I have created this website us
 This website solves the hassle of navigating multiple popular sites. Whether you need to watch videos on YouTube, explore topics on Quora, or research on Wikipedia, all are available in one place.
 
 
-## Visit the Website
-[Click to visit](https://gprakriti.github.io/Seamless-Website-Navigation/)
+## Visit the Website 🌐
+[Click here to visit](https://gprakriti.github.io/Seamless-Website-Navigation/)
